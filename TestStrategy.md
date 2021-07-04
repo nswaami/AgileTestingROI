@@ -1,7 +1,8 @@
 **Overall Comprehensive Testing Strategy**
 
 *Overview and Scope*
-
+What will be tested:
+What will not be tested:
 
 **Approach:**
 Functional testing, UI testing, Integration testing, Load/Stress testing, Security testing, etc.
