@@ -40,6 +40,8 @@ Planned changes to definition of done
 Sample Service #2: Unit/Functional (Why? No API changes planned)
 (...)
   
-**Release planning:
-Anticipated Risks:
-Reviewer/Approver List:**
+**Release planning:**
+  
+**Anticipated Risks:**
+  
+**Reviewer/Approver List:**
